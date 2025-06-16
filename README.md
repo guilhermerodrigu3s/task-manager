@@ -27,9 +27,9 @@ Um aplicativo web de **gerenciamento de tarefas**. Permite criar, editar, conclu
 
 ---
 
-## 📷 Preview
+##  Preview
 
-> 🖼️ _(Se quiser, depois podemos colocar um print aqui do app funcionando)_
+> 🖼️ _(https://guilhermerodrigu3s.github.io/task-manager/)_
 
 ---
 
